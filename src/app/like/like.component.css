@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.glyphicon-heart {
+    color: #ccc;
+    cursor: pointer;
+}
+
+.highlighted {
+    color: deeppink;
+}
